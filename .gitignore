@@ -1,0 +1,19 @@
+# Ignore dataset folder
+data/
+
+# Python cache
+__pycache__/
+
+# Virtual environments
+.venv/
+
+# VSCode / IDE stuff
+.vscode/
+
+# Streamlit cache
+.streamlit/
+
+#uv 
+uv.lock
+.python-version
+pyproject.toml
